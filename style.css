@@ -56,7 +56,19 @@ h6 {
 
 ======================== */
 
+/* Site Logo */
 
+/* header img {
+  max-width: 180px;
+  object-fit: contain;
+} */
+
+/* Navigation Menu */
+
+.header {
+  background: #12244f;
+  padding-top: 1%;
+}
 
 /* ======================
 
