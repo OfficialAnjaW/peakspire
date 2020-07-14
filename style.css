@@ -58,16 +58,33 @@ h6 {
 
 /* Site Logo */
 
-/* header img {
+header img {
   max-width: 180px;
   object-fit: contain;
-} */
+}
 
 /* Navigation Menu */
 
 .header {
-  background: #12244f;
+  background: #f9f9f9;
   padding-top: 1%;
+}
+
+.main-menu-class a {
+  color: #12244f;
+  font-family: acumin-pro-wide,sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.main-menu-class a:hover {
+  color: #6da69b;
+}
+
+.main-menu-class li {
+  display: inline;
 }
 
 /* ======================
